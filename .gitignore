@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data directories
+uploads/*
+processed/*
+evidence/images/*
+evidence/videos/*
+logs/*
+models/*.pt
+models/*.pth
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

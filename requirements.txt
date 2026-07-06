@@ -1,0 +1,14 @@
+# Core
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# YOLO
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image / video helpers
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.0
